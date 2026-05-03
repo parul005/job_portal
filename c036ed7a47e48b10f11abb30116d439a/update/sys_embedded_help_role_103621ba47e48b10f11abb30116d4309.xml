@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_83255_job_portal.admin" name="x_83255_job_portal.admin">543621ba47e48b10f11abb30116d4304</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-03 06:13:27</sys_created_on>
+        <sys_id>103621ba47e48b10f11abb30116d4309</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>543621ba47e48b10f11abb30116d4304</sys_name>
+        <sys_package display_value="Job Portal" source="x_83255_job_portal">c036ed7a47e48b10f11abb30116d439a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Job Portal">c036ed7a47e48b10f11abb30116d439a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_103621ba47e48b10f11abb30116d4309</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-03 06:13:27</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
